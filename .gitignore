@@ -15,7 +15,7 @@ venv
 
 # ignore all files in the build/ directory
 build/
-/Week3_이봉환/
+**/Week3_이봉환/
 
 
 # ignore doc/notes.txt, but not doc/server/arch.txt
